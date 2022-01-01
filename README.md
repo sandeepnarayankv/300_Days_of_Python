@@ -4,9 +4,9 @@
 ## Sources for the Projects
 
 
-https://github.com/darkprinx/break-the-ice-with-python
-geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/
-https://data-flair.training/blogs/python-project-ideas/
-https://www.interviewbit.com/blog/python-projects/
-https://github.com/Avik-Jain/100-Days-Of-ML-Code
-https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9
+1. https://github.com/darkprinx/break-the-ice-with-python
+2. geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/
+3. https://data-flair.training/blogs/python-project-ideas/
+4. https://www.interviewbit.com/blog/python-projects/
+5. https://github.com/Avik-Jain/100-Days-Of-ML-Code
+6. https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9
