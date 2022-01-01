@@ -5,7 +5,7 @@
 
 
 1. https://github.com/darkprinx/break-the-ice-with-python
-2. geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/
+2. https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/
 3. https://data-flair.training/blogs/python-project-ideas/
 4. https://www.interviewbit.com/blog/python-projects/
 5. https://github.com/Avik-Jain/100-Days-Of-ML-Code
