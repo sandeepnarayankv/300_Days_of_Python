@@ -429,8 +429,3 @@ print(total)
     Enter a Digit: 9
     11106
     
-
-
-```python
-
-```
